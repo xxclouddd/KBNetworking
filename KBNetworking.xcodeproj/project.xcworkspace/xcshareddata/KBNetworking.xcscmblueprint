@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42CA1F980A394EA99606798BB950062121F56676",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E33A06420E5FD1D630C0EDF23D99CC43741F1C71" : 9223372036854775807,
+    "42CA1F980A394EA99606798BB950062121F56676" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B75E94D3-0611-482A-9730-B29F88C378F5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E33A06420E5FD1D630C0EDF23D99CC43741F1C71" : "",
+    "42CA1F980A394EA99606798BB950062121F56676" : "KBNetworking\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KBNetworking",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KBNetworking.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/121.41.38.122:2020\/kuaibao\/gitdata\/iOS\/KBNetworking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42CA1F980A394EA99606798BB950062121F56676"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/121.41.38.122:2020\/kuaibao\/gitdata\/iOSS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E33A06420E5FD1D630C0EDF23D99CC43741F1C71"
+    }
+  ]
+}
