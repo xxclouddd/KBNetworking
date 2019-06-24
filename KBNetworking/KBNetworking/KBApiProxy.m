@@ -4,7 +4,7 @@
 //  WeiKuaiDi
 //
 //  Created by 肖雄 on 15/10/19.
-//  Copyright (c) 2015年 kuaibao. All rights reserved.
+//  Copyright (c) 2015年 xiaoxiong. All rights reserved.
 //
 
 #import "KBApiProxy.h"

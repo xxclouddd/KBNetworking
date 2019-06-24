@@ -113,7 +113,7 @@ static dispatch_queue_t kb_manager_request_creation_queue() {
     static dispatch_queue_t kb_api_manager_creation_queue;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
-        kb_api_manager_creation_queue = dispatch_queue_create("com.kuaibao.networking.manager.creation", DISPATCH_QUEUE_SERIAL);
+        kb_api_manager_creation_queue = dispatch_queue_create("com.xiaoxiong.networking.manager.creation", DISPATCH_QUEUE_SERIAL);
     });
     
     return kb_api_manager_creation_queue;
